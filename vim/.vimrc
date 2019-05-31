@@ -8,8 +8,12 @@ set showmode
 set showcmd
 set ruler
 
+set guifont=Consolas:h12
+set guioptions -=T
+
 set number
 set relativenumber
+set cursorline
 
 set scrolloff=5
 
